@@ -21,7 +21,7 @@ To create an issue, you have several options:
    - **"Propose new Skunkworks project"** - _Have some innovative idea you want built on top of Scroll? Propose it here!_
 - [Open a blank issue](https://github.com/scroll-tech/contribute-to-scroll/issues/new) if none of the previous options fit your proposal
 
-And that's it! You've started your contribution to Scroll journey 📜 🚀
+And that's it! You've started your contribution to Scroll journey 📜 🚀 LFG
 
 ### Making a PR
 
